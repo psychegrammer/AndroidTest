@@ -1,4 +1,4 @@
-package rs.mekdrajf.fastfood.androidtest
+    package rs.mekdrajf.fastfood.androidtest
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
